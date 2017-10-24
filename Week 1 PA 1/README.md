@@ -24,7 +24,7 @@
 - open `.html` file via brower for quick look.
 # Algorithm
 - K-NN with word count and tf-idf
-
+- metrics differ from Euclidean and Cosine
 
 
   
