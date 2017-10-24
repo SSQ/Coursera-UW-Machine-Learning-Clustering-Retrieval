@@ -25,6 +25,12 @@
 # Algorithm
 - K-NN with word count and tf-idf
 - metrics differ from Euclidean and Cosine
-
-
+# Implement in details
+- Extract word count vectors
+- Find nearest neighbors using word count vectors
+- Interpreting the nearest neighbors
+- Extract the TF-IDF vectors
+- Find nearest neighbors using TF-IDF vectors
+- Choosing metrics
+- Problem with cosine distances: tweets vs. long articles
   
