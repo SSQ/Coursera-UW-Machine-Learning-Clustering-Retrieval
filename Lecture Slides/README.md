@@ -54,3 +54,42 @@
   - Summarizing clustering with k-means
     - Other applications of clustering
     - A brief recap
+
+- Week 4 Mixture Models: Model-Based Clustering
+  - Motivating and setting the foundation for mixture models
+    - Slides presented in this module
+    - Motiving probabilistic clustering models
+    - Aggregating over unknown classes in an image dataset
+    - Univariate Gaussian distributions
+    - Bivariate and multivariate Gaussians
+  - Mixtures of Gaussians for clustering
+    - Mixture of Gaussians
+    - Interpreting the mixture of Gaussian terms
+    - Scaling mixtures of Gaussians for document clustering
+  - Expectation Maximization (EM) building blocks
+    - Computing soft assignments from known cluster parameters
+    - (OPTIONAL) Responsibilities as Bayes' rule
+    - Estimating cluster parameters from known cluster assignments
+    - Estimating cluster parameters from soft assignments
+  - The EM algorithm
+    - EM iterates in equations and pictures
+    - Convergence, initialization, and overfitting of EM
+    - Relationship to k-means
+    - (OPTIONAL) A worked-out example for EM
+
+- Week 5 Latent Dirichlet Allocation: Mixed Membership Modeling
+  - Introduction to latent Dirichlet allocation
+    - Slides presented in this module
+    - Mixed membership models for documents
+    - An alternative document clustering model
+    - Components of latent Dirichlet allocation model
+    - Goal of LDA inference
+  - Bayesian inference via Gibbs sampling
+    - The need for Bayesian inference
+    - Gibbs sampling from 10,000 feet
+    - A standard Gibbs sampler for LDA
+  - Collapsed Gibbs sampling for LDA
+    - What is collapsed Gibbs sampling?
+    - A worked example for LDA: Initial setup
+    - A worked example for LDA: Deriving the resampling distribution
+    - Using the output of collapsed Gibbs sampling
