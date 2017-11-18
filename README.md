@@ -58,5 +58,11 @@ Videos in [Bilibili](https://www.bilibili.com/video/av15379838/)(to which I post
   - Implement collapsed Gibbs sampling for LDA
   - [x] [Modeling text topics with Latent Dirichlet Allocation](https://github.com/SSQ/Coursera-UW-Machine-Learning-Clustering-Retrieval/tree/master/Week%205%20PA%201)
   
-- Week 6
-- Week 7
+- Week 6 Hierarchical Clustering & Closing Remarks
+  - Bonus content: Hierarchical clustering
+    - Divisive clustering
+    - Agglomerative clustering
+      - The dendrogram for agglomerative clustering
+      - Agglomerative clustering details
+  - Hidden Markov models (HMMs): Another notion of “clustering”
+  - [x] [Modeling text data with a hierarchy of clusters](https://github.com/SSQ/Coursera-UW-Machine-Learning-Clustering-Retrieval/tree/master/Week%206%20PA%201)
