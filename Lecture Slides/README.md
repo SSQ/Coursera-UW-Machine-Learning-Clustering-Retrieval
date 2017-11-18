@@ -93,3 +93,20 @@
     - A worked example for LDA: Initial setup
     - A worked example for LDA: Deriving the resampling distribution
     - Using the output of collapsed Gibbs sampling
+    
+- Week 6 Hierarchical Clustering & Closing Remarks
+  - What we've learned
+    - Module 1 recap
+    - Module 2 recap
+    - Module 3 recap
+    - Module 4 recap
+  - Hierarchical clustering and clustering for time series segmentation
+    - Why hierarchical clustering?
+    - Divisive clustering
+    - Agglomerative clustering
+    - The dendrogram
+    - Agglomerative clustering details
+    - Hidden Markov models
+  - Summary and what's ahead in the specialization
+    - What we didn't cover
+    - Thank you!
