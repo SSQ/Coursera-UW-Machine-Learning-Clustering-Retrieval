@@ -1,8 +1,8 @@
 # Coursera UW Machine Learning Clustering & Retrieval
 
-Course can be found [here](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+Course can be found in [Coursera](https://www.coursera.org/learn/ml-clustering-and-retrieval)
 
-Notebook for quick search can be found [here]()
+Notebook for quick search can be found in my blog [SSQ](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/#Machine-Learning-Clustering-amp-Retrieval)
 
 Videos in [Bilibili](https://www.bilibili.com/video/av15379838/)(to which I post it) 
 
